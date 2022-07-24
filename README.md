@@ -1,5 +1,4 @@
 # Auto-mpg-project
-Auto-mpg 
 
 Sources:
 (a) Origin: This dataset was taken from the StatLib library which is
